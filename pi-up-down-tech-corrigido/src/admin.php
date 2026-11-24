@@ -9,7 +9,7 @@
 <body>
     <header>
         <div class="container header-content">
-            <h1>⚙️ Turbo<span>Peças</span></h1>
+            <h1>⚙️ PI-UP-<span>DOWN-TECH</span></h1>
             <nav>
                 <a href="index.php">← Voltar para a Loja</a>
             </nav>
