@@ -24,7 +24,7 @@ function e($valor): string {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TurboPeças | Oficina & Autopeças</title>
+    <title>PI-UP-DOWN-TECH | Oficina & Autopeças</title>
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
