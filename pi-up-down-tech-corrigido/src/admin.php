@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cadastrar Peça | TurboPeças</title>
+    <title>Cadastrar Peça | PI-UP-DOWN-TECH</title>
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
